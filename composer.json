@@ -1,7 +1,7 @@
 {
-    "name": "sikessem/laravel-devtools",
-    "description": "🧪 Sikessem development tools for Laravel applications.",
-    "homepage": "https://packagist.org/packages/sikessem/laravel-devtools",
+    "name": "siguici/laravel-devtools",
+    "description": "🧪 Tools needed for Laravel project development and automation.",
+    "homepage": "https://packagist.org/packages/siguici/laravel-devtools",
     "keywords": [
         "actions",
         "analyze-code",
@@ -61,9 +61,9 @@
         }
     ],
     "support": {
-        "source": "https://github.com/sikessem/laravel-devtools",
-        "issues": "https://github.com/sikessem/laravel-devtools/issues",
-        "chat": "https://github.com/orgs/sikessem/discussions"
+        "source": "https://github.com/siguici/laravel-devtools",
+        "issues": "https://github.com/siguici/laravel-devtools/issues",
+        "chat": "https://github.com/siguici/siguici/discussions"
     },
     "require": {
         "php": ">=8.2",
@@ -78,7 +78,7 @@
         "pestphp/pest-plugin-livewire": "^2.1",
         "pestphp/pest-plugin-watch": "^2.1",
         "psalm/plugin-laravel": "^2.11",
-        "sikessem/devtools": "^0.9.0",
+        "siguici/devtools": "^0.9.0",
         "spatie/laravel-ignition": "^2.8",
         "spatie/laravel-ray": "^1.37",
         "wulfheart/laravel-actions-ide-helper": "^0.8.0"
