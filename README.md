@@ -39,7 +39,7 @@ using [Composer](https://getcomposer.org/):
   ```json
   {
     "require-dev" : {
-      "siguici/laravel-devtools": "^1.0"
+      "siguici/laravel-devtools": "^1.1"
     }
   }
   ```
