@@ -73,6 +73,7 @@
         "barryvdh/laravel-ide-helper": "^3.5",
         "larastan/larastan": "^3.1",
         "laravel/dusk": "^8.3",
+        "laravel/pail": "^1.2",
         "laravel/sail": "^1.41",
         "orchestra/testbench": "^9.11",
         "pestphp/pest-plugin-faker": "^3.0",
