@@ -1,21 +1,12 @@
-<div align="center">
-  <a href="https://siguici.deno.dev/" title="Sigui"><img src="https://github.com/siguici/art/blob/HEAD/images/logo.svg" alt="⚡" height="64"/></a>
-  <br/>
-  <br/>
+# [Laravel](https://laravel.com/) DevTools 🧪 by [Sigui <span><img src="https://github.com/siguici/art/blob/HEAD/images/logo.svg" alt="⚡" width="24" /></span>](https://github.com/siguici)
+
+Laravel development, debugging, testing and automation tools.
 
 [![ci-icon]][ci-link]
 [![packagist-version-icon]][packagist-version-link]
 [![packagist-download-icon]][packagist-download-link]
 [![license-icon]][license-link]
 [![twitter-icon]][twitter-link]
-
-</div>
-
-***
-
-# 🧪 Laravel DevTools
-
-Laravel development, debugging, testing and automation tools.
 
 ## 📋 Requirements
 
