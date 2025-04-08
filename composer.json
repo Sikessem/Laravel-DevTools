@@ -1,7 +1,7 @@
 {
-    "name": "siguici/laravel-devtools",
+    "name": "sikessem/laravel-devtools",
     "description": "🧪 Tools needed for Laravel project development and automation.",
-    "homepage": "https://packagist.org/packages/siguici/laravel-devtools",
+    "homepage": "https://packagist.org/packages/sikessem/laravel-devtools",
     "keywords": [
         "actions",
         "analyze-code",
@@ -43,7 +43,10 @@
         "refactor",
         "sigui",
         "siguici",
+        "siguici",
+        "sikessem",
         "siguici-devtools",
+        "sikessem-devtools",
         "test",
         "test-automation",
         "test-tools",
@@ -63,9 +66,9 @@
         }
     ],
     "support": {
-        "source": "https://github.com/siguici/laravel-devtools",
-        "issues": "https://github.com/siguici/laravel-devtools/issues",
-        "chat": "https://github.com/siguici/siguici/discussions"
+        "source": "https://github.com/Sikessem/Laravel-DevTools",
+        "issues": "https://github.com/Sikessem/Laravel-DevTools/issues",
+        "chat": "https://github.com/orgs/Sikessem/discussions"
     },
     "require": {
         "php": ">=8.2",
@@ -81,7 +84,7 @@
         "pestphp/pest-plugin-livewire": "^3.0",
         "pestphp/pest-plugin-watch": "^3.0",
         "psalm/plugin-laravel": "^3.0",
-        "siguici/php-devtools": "^1.1",
+        "sikessem/php-devtools": "^1.1",
         "spatie/laravel-ignition": "^2.9",
         "spatie/laravel-ray": "^1.39",
         "wulfheart/laravel-actions-ide-helper": "^0.10.0"

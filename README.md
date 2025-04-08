@@ -1,4 +1,4 @@
-# [Laravel](https://laravel.com/) DevTools 🧪 by [Sigui <span><img src="https://github.com/siguici/art/blob/HEAD/images/logo.svg" alt="⚡" width="24" /></span>](https://github.com/siguici)
+# [Laravel](https://laravel.com/) DevTools 🧪 by [<img src="https://github.com/sikessem/art/blob/HEAD/images/logo.svg" alt="Sikessem" height="32" />](https://github.com/Sikessem "Sikessem")
 
 Laravel development, debugging, testing and automation tools.
 
@@ -16,28 +16,28 @@ Laravel development, debugging, testing and automation tools.
 
 ## ⚡️ Installation
 
-Install [Laravel DevTools](https://packagist.org/packages/siguici/laravel-devtools)
+Install [Laravel DevTools](https://packagist.org/packages/sikessem/laravel-devtools)
 using [Composer](https://getcomposer.org/):
 
 - By including the dependency:
 
   ```bash
-  composer require siguici/laravel-devtools --dev --with-all-dependencies
+  composer require sikessem/laravel-devtools --dev --with-all-dependencies
   ```
 
-- Or by adding the `siguici/laravel-devtools` dependency to your `composer.json` file:
+- Or by adding the `sikessem/laravel-devtools` dependency to your `composer.json` file:
 
   ```json
   {
     "require-dev" : {
-      "siguici/laravel-devtools": "^1.2"
+      "sikessem/laravel-devtools": "^1.2"
     }
   }
   ```
 
 ### 💬 Discussions
 
-Larger discussions and proposals are discussed in [**siguici's discussions**][discuss-link].
+Larger discussions and proposals are discussed in [**Sikessem's discussions**][discuss-link].
 
 ***
 
@@ -45,19 +45,19 @@ Larger discussions and proposals are discussed in [**siguici's discussions**][di
 
 [siguici-link]: https://github.com/siguici "⚡ Sigui Kessé Emmanuel"
 
-[packagist-version-icon]: https://img.shields.io/packagist/v/siguici/laravel-devtools
-[packagist-version-link]: https://packagist.org/packages/siguici/laravel-devtools "DevTools Releases"
+[packagist-version-icon]: https://img.shields.io/packagist/v/sikessem/laravel-devtools
+[packagist-version-link]: https://packagist.org/packages/sikessem/laravel-devtools "DevTools Releases"
 
-[packagist-download-icon]: https://img.shields.io/packagist/dt/siguici/laravel-devtools
-[packagist-download-link]: https://packagist.org/packages/siguici/laravel-devtools "DevTools Downloads"
+[packagist-download-icon]: https://img.shields.io/packagist/dt/sikessem/laravel-devtools
+[packagist-download-link]: https://packagist.org/packages/sikessem/laravel-devtools "DevTools Downloads"
 
-[ci-icon]: https://github.com/siguici/laravel-devtools/workflows/CI/badge.svg
-[ci-link]: https://github.com/siguici/laravel-devtools/actions "DevTools CI"
+[ci-icon]: https://github.com/sikessem/laravel-devtools/workflows/CI/badge.svg
+[ci-link]: https://github.com/sikessem/laravel-devtools/actions "DevTools CI"
 
-[twitter-icon]: https://img.shields.io/twitter/follow/siguici.svg?label=@siguici
-[twitter-link]: https://twitter.com/intent/follow?screen_name=siguici "Ping ⚡ Sigui"
+[twitter-icon]: https://img.shields.io/twitter/follow/SikessemHQ.svg?label=@SikessemHQ
+[twitter-link]: https://twitter.com/intent/follow?screen_name=SikessemHQ "Ping ⚡ Sikesssem"
 
 [license-icon]: https://img.shields.io/badge/license-MIT-blue.svg
-[license-link]: https://github.com/siguici/laravel-devtools/blob/HEAD/LICENSE "DevTools License"
+[license-link]: https://github.com/sikessem/laravel-devtools/blob/HEAD/LICENSE "DevTools License"
 
-[discuss-link]: https://github.com/siguici/siguici/discussions
+[discuss-link]: https://github.com/orgs/Sikessem/discussions
