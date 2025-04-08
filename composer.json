@@ -74,7 +74,7 @@
         "php": ">=8.2",
         "barryvdh/laravel-debugbar": "^3.15",
         "barryvdh/laravel-ide-helper": "^3.5",
-        "larastan/larastan": "^3.1",
+        "larastan/larastan": "^3.2",
         "laravel/dusk": "^8.3",
         "laravel/pail": "^1.2",
         "laravel/sail": "^1.41",
@@ -84,9 +84,9 @@
         "pestphp/pest-plugin-livewire": "^3.0",
         "pestphp/pest-plugin-watch": "^3.0",
         "psalm/plugin-laravel": "^3.0",
-        "sikessem/php-devtools": "^1.1",
+        "sikessem/php-devtools": "^1.2",
         "spatie/laravel-ignition": "^2.9",
-        "spatie/laravel-ray": "^1.39",
+        "spatie/laravel-ray": "^1.40",
         "wulfheart/laravel-actions-ide-helper": "^0.10.0"
     },
     "extra": {
