@@ -10,8 +10,8 @@ Laravel development, debugging, testing and automation tools.
 
 ## 📋 Requirements
 
-> - **Requires [PHP 8.2+](https://php.net/releases/)**
-(at least 8.2.28 recommended to avoid potential bugs).
+> - **Requires [PHP 8.3+](https://php.net/releases/)**
+(at least 8.3.29 recommended to avoid potential bugs).
 > - **Requires [Composer v2+](https://getcomposer.org/)** to manage dependencies.
 
 ## ⚡️ Installation
@@ -30,7 +30,7 @@ using [Composer](https://getcomposer.org/):
   ```json
   {
     "require-dev" : {
-      "sikessem/laravel-devtools": "^1.4"
+      "sikessem/laravel-devtools": "^1.5"
     }
   }
   ```
